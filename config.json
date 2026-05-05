@@ -1,0 +1,30 @@
+{
+  "_readme": "Never put real keys here. All credentials are injected at runtime from environment variables.",
+
+  "MOTO": {
+    "hashtags": "#bikelife #motorcycle #losangeles #bikersoftiktok",
+    "tone": "energetic, gritty, rebellious",
+    "accounts": {
+      "tiktok": "MOTO_TIKTOK_ACCOUNT_ID",
+      "instagram": "MOTO_IG_ACCOUNT_ID"
+    }
+  },
+
+  "DEV": {
+    "hashtags": "#coding #developer #softwareengineer #techlife",
+    "tone": "professional, witty, minimalistic",
+    "accounts": {
+      "tiktok": "DEV_TIKTOK_ACCOUNT_ID",
+      "instagram": "DEV_IG_ACCOUNT_ID"
+    }
+  },
+
+  "LA": {
+    "hashtags": "#losangeles #california #vibes #citylife",
+    "tone": "cinematic, laid-back, aspirational",
+    "accounts": {
+      "tiktok": "LA_TIKTOK_ACCOUNT_ID",
+      "instagram": "LA_IG_ACCOUNT_ID"
+    }
+  }
+}
